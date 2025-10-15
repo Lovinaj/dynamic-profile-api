@@ -24,7 +24,7 @@ A simple RESTful API that returns profile information with dynamic cat facts.
 1. Clone the repository:
 ```bash
 git clone <https://github.com/Lovinaj/dynamic-profile-api>
-cd backend-wizards-stage0
+cd dynamic-profile-api
 ```
 
 2. Install dependencies:
