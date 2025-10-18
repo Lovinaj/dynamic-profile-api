@@ -35,7 +35,7 @@ const limiter = rateLimit({
 app.use(limiter);
 
 app.get("/", (req, res)=>{
-    res.send("hello")
+    res.redirect("/me")
 })
 
 // Main endpoint
