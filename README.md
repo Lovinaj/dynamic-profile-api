@@ -41,7 +41,7 @@ node server.js
 ```
 
 4. Test the endpoint:
-Visit `http://localhost:3000/me` in your browser
+Visit `http://localhost:8000/me` in your browser
 
 ## API Endpoint
 
