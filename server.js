@@ -10,6 +10,8 @@ const PORT = process.env.PORT || 8000;
 
 app.use(express.json());
 
+app.use(morgan('dev')); // Logs every request
+
 // CORS 
 app.use(cors({
   origin: process.env.ALLOWED_ORIGINS?.split(',') || '*',

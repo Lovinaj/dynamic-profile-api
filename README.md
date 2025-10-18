@@ -12,6 +12,9 @@ A simple RESTful API that returns profile information with dynamic cat facts.
 - Node.js
 - Express.js
 - Axios
+- Morgan
+- Express-rate-limit
+- CORs
 
 ## Local Setup
 
@@ -64,4 +67,4 @@ Deployed on: [Your hosting platform]
 Live URL: [Your live URL]
 
 ## Author
-Lovina Jonathan - https://github.com/Lovinaj/dynamic-profile-api
+Lovina Jonathan
